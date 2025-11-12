@@ -23,7 +23,7 @@ Wanna peek under the hood? Here’s how:
 
 ```bash
 # clone it
-git clone https://github.com/mayur-driod/portfolio.git
+git clone https://github.com/pranav-kalvium/My_Portfolio.git
 cd portfolio
 
 # install dependencies
@@ -46,9 +46,8 @@ I’m **Pranav**, a developer who loves mixing **tech + creativity**.
 * 🎨 Always trying to make things look as good as they work.
 * 📸 Outside of code, you’ll find me with a **camera in hand**, capturing moments.
 
-
-
 ---
+
 
 ## 📜 License
 

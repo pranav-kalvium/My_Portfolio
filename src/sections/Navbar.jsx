@@ -46,8 +46,8 @@ const Navbar = () => {
           <nav className="sm:flex hidden">
             <NavItems />
             <a
-              href="/assets/MayurKSetty.pdf"
-              download="MayurKSetty_CV.pdf"
+              href="/assets/Pranav_Prakash_S70_Kalvium_Resume.pdf"
+              download="Pranav_PrakashResume.pdf"
               className="ml-4 px-5 py-2 rounded-xl bg-black text-white border border-white/20 font-medium shadow-sm hover:bg-neutral-800 hover:border-white/40 transition-all duration-300"
             >
               Download CV
@@ -60,8 +60,8 @@ const Navbar = () => {
         <nav className="p-5">
           <NavItems onClick={closeMenu} />
           <a
-            href="/assets/MayurKSetty.pdf"
-            download="MayurKSetty_CV.pdf"
+            href="/assets/Pranav_Prakash_S70_Kalvium_Resume.pdf"
+            download="Pranav_Prakash_Resume.pdf"
             className="mt-3 px-5 py-2 rounded-xl bg-black text-white border border-white/20 font-medium shadow-sm hover:bg-neutral-800 hover:border-white/40 transition-all duration-300 text-center"
           >
             Download CV

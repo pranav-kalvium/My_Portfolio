@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Mayur!
+# 👋 Hey, I’m Pranav!
 
 Welcome to my **3D interactive portfolio** 🚀
 Built with **React (Vite)** ⚡, **Three.js** 🌍, and **Tailwind CSS** 🎨.
@@ -23,7 +23,7 @@ Wanna peek under the hood? Here’s how:
 
 ```bash
 # clone it
-git clone https://github.com/mayur-driod/portfolio.git
+git clone https://github.com/pranav-kalvium/My_Portfolio.git
 cd portfolio
 
 # install dependencies
@@ -39,7 +39,7 @@ That’s it! Open up [http://localhost:5173](http://localhost:5173) and boom �
 
 ## 🙋 About Me
 
-I’m **Mayur**, a developer who loves mixing **tech + creativity**.
+I’m **Pranav**, a developer who loves mixing **tech + creativity**.
 
 * 🖥️ I enjoy working with **React** & **modern JavaScript**.
 * 🌍 Fascinated by **3D graphics** & **interactive experiences**.
@@ -48,14 +48,6 @@ I’m **Mayur**, a developer who loves mixing **tech + creativity**.
 
 ---
 
-## 🔗 Connect with Me
-
-* 🌐 Portfolio: [Portfolio](https://mayurksetty.vercel.app/)
-* 📧 Email: \[[settymayurk@gmail.com](mailto:settymayurk@gmail.com)]
-* 💼 LinkedIn: [linkedin.com/in/mayurksetty](https://linkedin.com/in/mayurksetty)
-* 🐦 Instagram: [@mayura.jpg](https://instagram.com/mayura.jpg)
-
----
 
 ## 📜 License
 

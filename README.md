@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-That’s it! Open up [http://localhost:5173](http://localhost:5173) and boom 💥 you’re in.
+That’s it! Open up [http://localhost:5173](http://localhost:5173) and boom 💥 you’re in. ENJOYYYYYYY
 
 ---
 

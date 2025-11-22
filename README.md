@@ -3,6 +3,8 @@
 Welcome to my **3D interactive portfolio** 🚀
 Built with **React (Vite)** ⚡, **Three.js** 🌍, and **Tailwind CSS** 🎨.
 
+# Deployed Live Link - https://panav-portfolio.netlify.app/
+
 This isn’t just another portfolio — it’s my digital playground where I mix **design, code, and creativity** into one smooth experience.
 
 ---

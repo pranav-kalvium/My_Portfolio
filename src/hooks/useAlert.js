@@ -9,5 +9,5 @@ const useAlert = () => {
 
   return { alert, showAlert, hideAlert };
 };
-
+// alert , show and hide alert
 export default useAlert;
